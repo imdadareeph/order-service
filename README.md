@@ -82,6 +82,6 @@ Build the project using maven-plugin
 
 ### Screenshots
  ![alt text](https://raw.githubusercontent.com/imdadareeph/order-service/main/screenshots/1-solace-docker.png "1-solace-docker.png")
- ![alt text](https://raw.githubusercontent.com/imdadareeph/order-service/main/screenshots/2-maven-build-run.png "2-maven-build-run.png")
+ ![alt text](https://raw.githubusercontent.com/imdadareeph/order-service/main/screenshots/2-maven-build-and-run.png "2-maven-build-and-run.png")
  ![alt text](https://raw.githubusercontent.com/imdadareeph/order-service/main/screenshots/3-postman-test.png "3-postman-test.png")
  ![alt text](https://raw.githubusercontent.com/imdadareeph/order-service/main/screenshots/4-h2db.png "4-h2db.png")
